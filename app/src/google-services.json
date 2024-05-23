@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "496649201279",
+    "project_id": "oauth-3b5ce",
+    "storage_bucket": "oauth-3b5ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496649201279:android:5749082453523662d2014a",
+        "android_client_info": {
+          "package_name": "fes.aragon.camerafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496649201279-jc0lus0f5npb5mh0h9460420oalj6h9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fes.aragon.camerafirebase",
+            "certificate_hash": "e6fa6205fc31f2bf31a8650a70da276a81e3f404"
+          }
+        },
+        {
+          "client_id": "496649201279-fkfpta834t684n7716lsq8pcf124s24e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNmF0ynwRPFXIWHc05JJqNdP9HgVHYyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496649201279-fkfpta834t684n7716lsq8pcf124s24e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496649201279:android:bb29d04e77fe77f9d2014a",
+        "android_client_info": {
+          "package_name": "fes.aragon.oauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496649201279-u48v75cn86klonqa4u3vipcgof46inmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fes.aragon.oauth",
+            "certificate_hash": "e6fa6205fc31f2bf31a8650a70da276a81e3f404"
+          }
+        },
+        {
+          "client_id": "496649201279-fkfpta834t684n7716lsq8pcf124s24e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNmF0ynwRPFXIWHc05JJqNdP9HgVHYyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496649201279-fkfpta834t684n7716lsq8pcf124s24e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496649201279:android:ba4f5bd504e833d1d2014a",
+        "android_client_info": {
+          "package_name": "fes.aragon.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496649201279-r9u2bkudsdpc5kpaqulvsvlq7ij26pr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fes.aragon.proyectofinal",
+            "certificate_hash": "e6fa6205fc31f2bf31a8650a70da276a81e3f404"
+          }
+        },
+        {
+          "client_id": "496649201279-fkfpta834t684n7716lsq8pcf124s24e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNmF0ynwRPFXIWHc05JJqNdP9HgVHYyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496649201279-fkfpta834t684n7716lsq8pcf124s24e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
